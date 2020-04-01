@@ -1,0 +1,9 @@
+C:\Users\students\Desktop\格鬥動畫(火人)\格鬥動畫(火人)\bin\Debug\格鬥動畫(火人).exe
+C:\Users\students\Desktop\格鬥動畫(火人)\格鬥動畫(火人)\bin\Debug\格鬥動畫(火人).pdb
+C:\Users\students\Desktop\格鬥動畫(火人)\格鬥動畫(火人)\bin\Debug\格鬥動畫(火人).xml
+C:\Users\students\Desktop\格鬥動畫(火人)\格鬥動畫(火人)\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\students\Desktop\格鬥動畫(火人)\格鬥動畫(火人)\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\students\Desktop\格鬥動畫(火人)\格鬥動畫(火人)\obj\x86\Debug\格鬥動畫(火人).vbproj.GenerateResource.Cache
+C:\Users\students\Desktop\格鬥動畫(火人)\格鬥動畫(火人)\obj\x86\Debug\格鬥動畫(火人).exe
+C:\Users\students\Desktop\格鬥動畫(火人)\格鬥動畫(火人)\obj\x86\Debug\格鬥動畫(火人).xml
+C:\Users\students\Desktop\格鬥動畫(火人)\格鬥動畫(火人)\obj\x86\Debug\格鬥動畫(火人).pdb
